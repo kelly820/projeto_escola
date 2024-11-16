@@ -139,7 +139,7 @@ nav li:first-child{
 .conteiner .card .caixaImg{
     position:absolute;
     top:20px;
-    width:220px;
+    width:320px;
     height:320px;
     border-radius:30px;
     overflow:hidden;/*esconde oq sobrar da imagem*/
